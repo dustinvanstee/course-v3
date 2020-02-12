@@ -1,0 +1,28 @@
+[W 14:39:19.468 NotebookApp] Config option `comment` not recognized by `NotebookApp`.
+[W 14:39:19.742 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 14:39:19.742 NotebookApp] The port 3761 is already in use, trying another port.
+[I 14:39:19.783 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 14:39:19.783 NotebookApp] Serving notebooks from local directory: /gpfs/home/s4s004/vanstee/2019-10-kaggle-fastai/course-v3/nbs/vanstee
+[I 14:39:19.783 NotebookApp] The Jupyter Notebook is running at:
+[I 14:39:19.783 NotebookApp] http://p10a114:3762/
+[I 14:39:19.783 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:39:49.509 NotebookApp] 302 GET / (9.57.247.53) 0.45ms
+[I 14:39:58.657 NotebookApp] Creating new notebook in 
+[I 14:40:00.551 NotebookApp] Kernel started: 63ef9899-05d1-4a1a-a4a5-0a297b153e9e
+[I 14:42:00.517 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:44:00.525 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 15:22:00.622 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 15:24:00.622 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 15:26:00.619 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 15:28:00.623 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 15:30:00.630 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 15:32:00.642 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 15:56:00.684 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 15:58:00.686 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 16:00:00.688 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 16:04:00.694 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 16:06:00.697 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 16:08:00.702 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 16:10:00.701 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 16:12:00.705 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
+[I 16:14:00.712 NotebookApp] Saving file at /FastAI-RNN-experiment'.ipynb
